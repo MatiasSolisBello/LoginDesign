@@ -1,0 +1,43 @@
+body {
+    background-color: #18191E;
+}
+
+h1, label{
+    margin-top:3%;
+    color: aliceblue;
+    text-align: center;
+}
+
+img{
+    margin-top:7%;
+    width: 15%;
+}
+
+.form-control {
+    background-color: #222328;
+    color: white;
+    border: none;
+}
+
+a {
+    color: gray;
+}
+
+a:link{
+    text-decoration:none;
+    
+}
+
+.rrss{
+    margin-top:7%;
+    text-align: center;
+    color: gray;
+}
+
+button {
+    margin:2%;
+}
+
+strong{
+    margin-top:7%;
+}
