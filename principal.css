@@ -1,0 +1,40 @@
+body, nav {
+    background-color: #18191E;
+}
+
+h1, label{
+    margin-top:3%;
+    color: aliceblue;
+    text-align: center;
+}
+
+#logo, #lupa{
+    margin-top: 2%;
+    width: 10%;
+}
+
+#taverns{
+    background-color: #411B1A;
+}
+
+.rotate{
+    text-align: center;
+    margin-bottom: 4%;
+}
+
+#shops{
+    background-color: #133536;
+}
+
+#restaurants{
+    background-color: #382426;
+}
+
+#hotels{
+    background-color: #2D3039;
+}
+
+#img-shop{
+    align-items: center;
+    width: 35%;
+}
