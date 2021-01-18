@@ -3,14 +3,14 @@ body, nav {
 }
 
 h1, label{
-    margin-top:3%;
+    margin-top:20px;
     color: aliceblue;
     text-align: center;
 }
 
 #logo, #lupa{
     margin-top: 2%;
-    width: 10%;
+    width: 12%;
 }
 
 #taverns{
@@ -37,4 +37,18 @@ h1, label{
 #img-shop{
     align-items: center;
     width: 35%;
+}
+
+@media (min-width: 800px) {
+    #logo, #lupa{
+        margin-top: 2%;
+        width: 8%;
+    }
+}
+
+@media (min-width: 1200px) {
+    #logo, #lupa{
+        margin-top: 2%;
+        width: 5%;
+    }
 }

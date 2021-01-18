@@ -8,11 +8,6 @@ h1, label{
     text-align: center;
 }
 
-img{
-    margin-top:7%;
-    width: 15%;
-}
-
 .form-control {
     background-color: #222328;
     color: white;
@@ -40,4 +35,26 @@ button {
 
 strong{
     margin-top:7%;
+}
+
+@media (min-width: 360px) {
+    img{
+        margin-top:7%;
+        width: 10%;
+    }
+}
+
+@media (min-width: 1400px) {
+    img{
+        margin-top:2%;
+        width: 7%;
+    }
+
+    h1, label{
+        margin-top:5px;
+    }
+
+    .rrss{
+        margin-top:2%;
+    }
 }
